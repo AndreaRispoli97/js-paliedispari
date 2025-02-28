@@ -7,3 +7,9 @@ Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 Dichiariamo chi ha vinto.
 
 ## Svolgimento
+
+- Creare una variabile con un prompt che chiede all'utente un numero da 1 a 5 e uno che chiede per pari o dispari.
+- Usando una funzione dobbiamo creare un numero random per il computer(sempre da 1 a 5)
+- Sommiamo i due numeri
+- Usando un'altra funzione definiamo se i numeri sono dispari o pari
+- Dichiariamo il vincitore
